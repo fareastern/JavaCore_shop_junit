@@ -1,0 +1,1 @@
+# JavaCore_shop_junit
